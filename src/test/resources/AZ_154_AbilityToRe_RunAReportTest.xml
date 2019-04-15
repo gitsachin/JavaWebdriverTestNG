@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_154 Ability To Re_Run A Report Test Case Flow">
+  <test name="AZ_154_AbilityToRe_RunAReportTest">
+    <classes>
+      <class name="com.auto.tests.AZ_154_AbilityToRe_RunAReportTest"/>
+    </classes>
+  </test>
+</suite>

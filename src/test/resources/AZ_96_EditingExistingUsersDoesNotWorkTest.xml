@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AZ_96_ Editing Existing Users Does NotWork Test Flow">
+  <test name="AZ_96_EditingExistingUsersDoesNotWorkTest">
+    <classes>
+      <class name="com.auto.tests.AZ_96_EditingExistingUsersDoesNotWorkTest"/>
+    </classes>
+  </test>
+</suite>

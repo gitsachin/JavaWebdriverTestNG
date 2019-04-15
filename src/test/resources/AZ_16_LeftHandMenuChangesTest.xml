@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_16 Left Hand Menu Changes Test Flow">
+  <test name="AZ_16_LeftHandMenuChangesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_16_LeftHandMenuChangesTest"/>
+    </classes>
+  </test>
+</suite>

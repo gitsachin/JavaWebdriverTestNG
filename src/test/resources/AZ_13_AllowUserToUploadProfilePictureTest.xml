@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_13 All User TO Upload Profile Picture">
+  <test name="AZ_13_AllowUserToUploadProfilePictureTest">
+    <classes>
+      <class name="com.auto.tests.AZ_13_AllowUserToUploadProfilePictureTest"/>
+    </classes>
+  </test>
+</suite>

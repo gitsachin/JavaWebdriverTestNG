@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_117 Search Broken when searching for an assets tag Test Flow">
+  <test name="AZ_117_SearchBrokenWhenSearchingForAnAssetTagTest">
+    <classes>
+      <class name="com.auto.tests.AZ_117_SearchBrokenWhenSearchingForAnAssetTagTest"/>
+    </classes>
+  </test>
+</suite>

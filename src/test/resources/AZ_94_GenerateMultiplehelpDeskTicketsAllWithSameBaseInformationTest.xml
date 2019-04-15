@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_94 Generate Multiple help Desk Tickets All With Same Base Information Test Case Flow">
+  <test name="AZ_94_GenerateMultiplehelpDeskTicketsAllWithSameBaseInformationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_94_GenerateMultiplehelpDeskTicketsAllWithSameBaseInformationTest"/>
+    </classes>
+  </test>
+</suite>

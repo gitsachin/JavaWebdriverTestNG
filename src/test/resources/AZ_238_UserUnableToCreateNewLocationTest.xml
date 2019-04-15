@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_238 User Unable To Create New Location Test case Flow">
+  <test name="AZ_238_UserUnableToCreateNewLocationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_238_UserUnableToCreateNewLocationTest"/>
+    </classes>
+  </test>
+</suite>

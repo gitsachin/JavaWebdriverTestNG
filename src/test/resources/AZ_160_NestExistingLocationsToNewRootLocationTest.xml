@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_160_Nest Existing Locations To NewRoot Location">
+  <test name="AZ_160_NestExistingLocationsToNewRootLocationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_160_NestExistingLocationsToNewRootLocationTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_296 Create New Help Desk Ticket Rule Test Case Flow">
+  <test name="AZ_296_CreateNewHelpDeskTicketRuleTest">
+    <classes>
+      <class name="com.auto.tests.AZ_296_CreateNewHelpDeskTicketRuleTest"/>
+    </classes>
+  </test>
+</suite>

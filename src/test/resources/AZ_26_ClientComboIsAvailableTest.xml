@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_26 Client Combo Is Available Test Flow">
+  <test name="AZ_26_ClientComboIsAvailableTest">
+    <classes>
+      <class name="com.auto.tests.AZ_26_ClientComboIsAvailableTest"/>
+    </classes>
+  </test>
+</suite>

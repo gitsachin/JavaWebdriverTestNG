@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_81 Create An Asset With Super User Account Test Case Flow">
+  <test name="AZ_81_CreateAnAssetWithSuperUserAccountTest">
+    <classes>
+      <class name="com.auto.tests.AZ_81_CreateAnAssetWithSuperUserAccountTest"/>
+    </classes>
+  </test>
+</suite>

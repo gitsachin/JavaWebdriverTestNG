@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-116 Search data and verify number of records">
+  <test name="AZ-116_Search_record_and_verify_result">
+    <classes>
+      <class name="com.auto.tests.AZ_116_WhenTypingTextOnTableToFilterResultsIfYouDeleteTheTextBackToEmptyAllTheResultsShouldComeBackTest"/>
+    </classes>
+  </test>
+</suite>  

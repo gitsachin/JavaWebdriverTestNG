@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_105 Only 1 page Of Data Don't Display The Paginator Test Flow">
+  <test name="AZ_105_Only_1_pageOfDataDoNotDisplayThePaginatorTest">
+    <classes>
+      <class name="com.auto.tests.AZ_105_Only_1_pageOfDataDoNotDisplayThePaginatorTest"/>
+    </classes>
+  </test>
+</suite>

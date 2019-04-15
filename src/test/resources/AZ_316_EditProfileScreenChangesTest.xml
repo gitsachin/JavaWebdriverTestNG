@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_316_Edit Profile Screen Changes Test Flow">
+  <test name="AZ_316_EditProfileScreenChangesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_316_EditProfileScreenChangesTest"/>
+    </classes>
+  </test>
+</suite>

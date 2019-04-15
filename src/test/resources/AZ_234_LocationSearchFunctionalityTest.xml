@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_234 Location Search Functionality Test case Flow">
+  <test name="AZ_234_LocationSearchFunctionalityTest">
+    <classes>
+      <class name="com.auto.tests.AZ_234_LocationSearchFunctionalityTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_230 Template Field Verify Test case Flow">
+  <test name="AZ_230_TemplateFieldVerifyTest">
+    <classes>
+      <class name="com.auto.tests.AZ_230_TemplateFieldVerifyTest"/>
+    </classes>
+  </test>
+</suite>

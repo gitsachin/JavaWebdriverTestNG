@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_244_Related Replace By Location In Client Assets Login With Staff Test Case Flow">
+ <test name="AZ_244_CheckRelatedReplaceByLocationInClientAssetsLoginWithStaffTest">
+   <classes>
+     <class name="com.auto.tests.AZ_244_CheckRelatedReplaceByLocationInClientAssetsLoginWithStaffTest"/>
+   </classes>
+ </test>
+</suite>

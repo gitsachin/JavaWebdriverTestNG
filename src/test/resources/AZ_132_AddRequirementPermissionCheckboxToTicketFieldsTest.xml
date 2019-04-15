@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_132 Add Requirement Permission Checkbox To Ticket Fields Test Flow">
+  <test name="AZ_132_AddRequirementPermissionCheckboxToTicketFieldsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_132_AddRequirementPermissionCheckboxToTicketFieldsTest"/>
+    </classes>
+  </test>
+</suite>

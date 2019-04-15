@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_152 Verify action dropdown list Test Flow">
+  <test name="AZ_AZ_152_ConsolidationOfButtonActionsIntoActionDropdownTest">
+    <classes>
+      <class name="com.auto.tests.AZ_152_ConsolidationOfButtonActionsIntoActionDropdownTest"/>
+    </classes>
+  </test>
+</suite>

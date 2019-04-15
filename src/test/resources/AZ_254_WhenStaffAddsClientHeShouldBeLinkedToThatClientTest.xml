@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_254 When Staff Adds Client He Should Be Linked To That Client Test Flow">
+  <test name="AZ_254_WhenStaffAddsClientHeShouldBeLinkedToThatClientTest">
+    <classes>
+      <class name="com.auto.tests.AZ_254_WhenStaffAddsClientHeShouldBeLinkedToThatClientTest"/>
+    </classes>
+  </test>
+</suite>

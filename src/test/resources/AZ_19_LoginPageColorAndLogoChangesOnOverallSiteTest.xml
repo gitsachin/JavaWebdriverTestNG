@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_19 Login Page Color And Logo Changes On Overall Site Test Flow">
+  <test name="AZ_19_LoginPageColorAndLogoChangesOnOverallSiteTest">
+    <classes>
+      <class name="com.auto.tests.AZ_19_LoginPageColorAndLogoChangesOnOverallSiteTest"/>
+    </classes>
+  </test>
+</suite>

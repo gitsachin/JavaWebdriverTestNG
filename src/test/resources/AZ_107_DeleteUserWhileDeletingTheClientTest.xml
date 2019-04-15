@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_107 Delete User While Deleting The Client Test Case Flow">
+  <test name="AZ_107_DeleteUserWhileDeletingTheClientTest">
+    <classes>
+      <class name="com.auto.tests.AZ_107_DeleteUserWhileDeletingTheClientTest"/>
+    </classes>
+  </test>
+</suite>

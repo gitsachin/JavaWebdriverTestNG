@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-55 Verify ticket setting in helpdesk tab">
+  <test name="AZ-55_Verify_ticket_setting_in_helpdesk_tab">
+    <classes>
+      <class name="com.auto.tests.AZ_55_HelpDesk_TicketSettingTest"/>
+    </classes>
+  </test>
+</suite>

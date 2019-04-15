@@ -1,0 +1,18 @@
+"Tag *
+","Category * 
+","Asset Name  *
+","Manufacturer  *
+","Model Name  * 
+","Serial Number * 
+","Supplier Name *
+","Purchase Date (YYYY-MM-DD) 
+","Warranty (Months) 
+","Purchase Order No 
+","Price 
+",Location Name*,"Status *  
+","Note 
+"
+sample tag 2,sample category 2,sample asset 2,sample manufacturer 2,sample model 2,sample serial 2,sample supplier 2,2018-01-02,7,Order12346,15.15,Sample Location name 2,Deployed,This is the second sample record
+sample tag 3,sample category 3,sample asset 3,sample manufacturer 3,sample model 3,sample serial 3,sample supplier 3,2018-01-03,8,#4567,16.15,Sample Location name 3,In Repair,This is the third sample record
+sample tag 4,sample category 4,sample asset 4,sample manufacturer 4,sample model 4,sample serial 4,sample supplier 4,2018-01-04,9,#7890,17.15,Sample Location name 4,Broken,This is the fourth sample record
+sample tag 5,sample category 5,sample asset 5,sample manufacturer 5,sample model 5,sample serial 5,sample supplier 5,2018-01-05,10,PurchaseOrder12345,18.15,Sample Location name 5,Archived,This is the fifth sample record

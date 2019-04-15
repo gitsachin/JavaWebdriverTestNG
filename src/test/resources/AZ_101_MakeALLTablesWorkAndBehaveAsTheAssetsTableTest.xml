@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_101 Make ALL Tables Work And Behave As The Assets Table Test Flow">
+  <test name="AZ_101_MakeALLTablesWorkAndBehaveAsTheAssetsTableTest">
+    <classes>
+      <class name="com.auto.tests.AZ_101_MakeALLTablesWorkAndBehaveAsTheAssetsTableTest"/>
+    </classes>
+  </test>
+</suite>

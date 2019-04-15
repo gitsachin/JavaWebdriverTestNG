@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AZ_275_Creating New Help Ticket Attach Picture And Close The Entire Ticket Nothing Is Saved Test Case Flow">
+  <test name="AZ_275_CreatingNewHelpTicketAttachPictureAndCloseTheEntireTicketNothingIsSavedTest">
+    <classes>
+      <class name="com.auto.tests.AZ_275_CreatingNewHelpTicketTryingToAttachAPictureAndXToCloseItClosesTheEntireTicketNothingIsSavedTest"/>
+    </classes>
+  </test>
+</suite>

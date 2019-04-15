@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_304 Add Help Desk Ticket Summary On Dashboard Test Flow">
+  <test name="AZ_304_AddHelpDeskTicketSummaryOnDashboardTest">
+    <classes>
+      <class name="com.auto.tests.AZ_304_AddHelpDeskTicketSummaryOnDashboardTest"/>
+    </classes>
+  </test>
+</suite>

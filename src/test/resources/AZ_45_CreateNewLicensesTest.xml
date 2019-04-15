@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_45 Create New Licenses Test Flow">
+  <test name="AZ_45_CreateNewLicensesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_45_CreateNewLicensesTest"/>
+    </classes>
+  </test>
+</suite>

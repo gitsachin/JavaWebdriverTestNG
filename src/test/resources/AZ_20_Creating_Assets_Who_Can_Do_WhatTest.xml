@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-20 Creating Assets Who Can Do What">
+  <test name="AZ_20_Creating_Assets_Who_Can_Do_What">
+    <classes>
+      <class name="com.auto.tests.AZ_20_Creating_Assets_Who_Can_Do_WhatTest"/>
+    </classes>
+  </test>
+</suite>

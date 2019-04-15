@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_206 Verify Confirm Field Test Case Flow">
+  <test name="AZ_206_VerifyConfirmFieldTest">
+    <classes>
+      <class name="com.auto.tests.AZ_206_VerifyConfirmFieldTest"/>
+    </classes>
+  </test>
+</suite>

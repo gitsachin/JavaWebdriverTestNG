@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_11 When Creating New User Unable To See Roles To Assign The User Test Case Flow">
+  <test name="AZ_11_WhenCreatingNewUserUnableToSeeRolesToAssignTheUserTest">
+    <classes>
+      <class name="com.auto.tests.AZ_11_WhenCreatingNewUserUnableToSeeRolesToAssignTheUserTest"/>
+    </classes>
+  </test>
+</suite>

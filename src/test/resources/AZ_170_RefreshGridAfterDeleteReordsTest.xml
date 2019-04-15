@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_170 Refresh Grid After Delete Reords Test Flow">
+  <test name="AZ_170_RefreshGridAfterDeleteReordsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_170_RefreshGridAfterDeleteReordsTest"/>
+    </classes>
+  </test>
+</suite>

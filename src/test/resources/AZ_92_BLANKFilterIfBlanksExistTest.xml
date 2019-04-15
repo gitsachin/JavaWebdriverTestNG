@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_92_BLANK Filter If Blanks Exist Test Case Flow">
+  <test name="AZ_92_BLANKFilterIfBlanksExistTest">
+    <classes>
+      <class name="com.auto.tests.AZ_92_BLANKFilterIfBlanksExistTest"/>
+    </classes>
+  </test>
+</suite>

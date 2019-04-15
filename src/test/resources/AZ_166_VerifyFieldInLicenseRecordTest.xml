@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_166 Verify field on license record">
+  <test name="AZ_166_VerifyFieldOnLicenseRecord">
+    <classes>
+      <class name="com.auto.tests.AZ_166_VerifyFieldInLicenseRecordTest"/>
+    </classes>
+  </test>
+</suite>

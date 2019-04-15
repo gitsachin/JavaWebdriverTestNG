@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_69_Create Filtering For Issues Test Flow">
+  <test name="AZ_69_CreateFilteringForIssues">
+    <classes>
+      <class name="com.auto.tests.AZ_69_CreateFilteringForIssuesTest"/>
+    </classes>
+  </test>
+</suite>

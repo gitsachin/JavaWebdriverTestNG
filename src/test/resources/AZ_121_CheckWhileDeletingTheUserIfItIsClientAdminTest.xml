@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_121 Check While Deleting The User If It Is Client Admin Test Flow">
+  <test name="AZ_121_CheckWhileDeletingTheUserIfItIsClientAdminTest">
+    <classes>
+      <class name="com.auto.tests.AZ_121_CheckWhileDeletingTheUserIfItIsClientAdminTest"/>
+    </classes>
+  </test>
+</suite>

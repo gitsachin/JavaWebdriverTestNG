@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_211 Move Issue Under Project As A Sub-Node Test Case Flow">
+  <test name="AZ_211_MoveIssueUnderProjectAsASub_NodeTest">
+    <classes>
+      <class name="com.auto.tests.AZ_211_MoveIssueUnderProjectAsASub_NodeTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_31 Asset Attributes Have Client Specific Combo Test Flow">
+  <test name="AZ_31_AssetAttributesHaveClientSpecificComboTest">
+    <classes>
+      <class name="com.auto.tests.AZ_31_AssetAttributesHaveClientSpecificCombo"/>
+    </classes>
+  </test>
+</suite>

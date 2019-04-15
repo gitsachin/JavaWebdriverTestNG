@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_191 All Records Option Available In Category Dropdown List Test Flow">
+  <test name="AZ_191_AllRecordsOptionAvailableInCategoryDropdownListTest">
+    <classes>
+      <class name="com.auto.tests.AZ_191_AllRecordsOptionAvailableInCategoryDropdownListTest"/>
+    </classes>
+  </test>
+</suite>

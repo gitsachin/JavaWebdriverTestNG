@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_188 Search Field Not Present In Delete User Section Test Case Flow">
+  <test name="AZ_188_SearchFieldNotPresentInDeleteUserSectionTest">
+    <classes>
+      <class name="com.auto.tests.AZ_188_SearchFieldNotPresentInDeleteUserSectionTest"/>
+    </classes>
+  </test>
+</suite>

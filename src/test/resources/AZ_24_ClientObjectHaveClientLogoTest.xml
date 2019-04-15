@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_24 Client object needs a Client Logo attribute Test Flow">
+  <test name="AZ_24_ClientObjectHaveClientLogoTest">
+    <classes>
+      <class name="com.auto.tests.AZ_24_ClientObjectHaveClientLogoTest"/>
+    </classes>
+  </test>
+</suite>

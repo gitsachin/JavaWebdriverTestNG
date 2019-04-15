@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_52 Batch Import Users Test Flow">
+  <test name="AZ_52_BatchImportUsersTest">
+    <classes>
+      <class name="com.auto.tests.AZ_52_BatchImportUsersTest"/>
+    </classes>
+  </test>
+</suite>

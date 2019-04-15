@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_123 404 Pages Template Test Flow">
+  <test name="AZ_123_404PagesTemplateTest">
+    <classes>
+      <class name="com.auto.tests.AZ_123_404PagesTemplateTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_7 Attributes Section To The Roles Permissions Area Test Case Flow">
+  <test name="AZ_7_AttributesSectionToTheRolesPermissionsAreaTest">
+    <classes>
+      <class name="com.auto.tests.AZ_7_AttributesSectionToTheRolesPermissionsAreaTest"/>
+    </classes>
+  </test>
+</suite>

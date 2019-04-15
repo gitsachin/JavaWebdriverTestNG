@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_83_Help Desk Ticket Custom Fields Needs To Be Permissioned Test Case Flow">
+  <test name="AZ_83_HelpDeskTicketCustomFieldsNeedsToBePermissioned">
+    <classes>
+      <class name="com.auto.tests.AZ_83_HelpDeskTicketCustomFieldsNeedsToBePermissioned"/>
+    </classes>
+  </test>
+</suite>

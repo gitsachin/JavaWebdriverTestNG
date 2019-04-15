@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_247 Ticket Assign To Default Test Case Flow">
+ <test name="AZ_247_TicketAssignToDefaultTest">
+   <classes>
+     <class name="com.auto.tests.AZ_247_TicketAssignToDefaultTest"/>
+   </classes>
+ </test>
+</suite>

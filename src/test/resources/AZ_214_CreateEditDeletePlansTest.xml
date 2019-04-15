@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_214 Create Edit Delete Plans Test Case Flow">
+  <test name="AZ_214_CreateEditDeletePlansTest">
+    <classes>
+      <class name="com.auto.tests.AZ_214_CreateEditDeletePlansTest"/>
+    </classes>
+  </test>
+</suite>

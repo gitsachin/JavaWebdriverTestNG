@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_119 Remove Ajax Search Test Case Flow">
+  <test name="AZ_119_RemoveAjaxSearchTest">
+    <classes>
+      <class name="com.auto.tests.AZ_119_RemoveAjaxSearchTest"/>
+    </classes>
+  </test>
+</suite>

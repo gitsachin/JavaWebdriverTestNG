@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_46 HelpDesk Tickets Need Customizable Fields Test Case Flow">
+  <test name="AZ_46_HelpDeskTicketsNeedCustomizableFieldsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_46_HelpDeskTicketsNeedCustomizableFieldsTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_58 User Has Location Attribute Test Flow">
+  <test name="AZ_58_UserHasLocationAttributeTest">
+    <classes>
+      <class name="com.auto.tests.AZ_58_UserHasLocationAttributeTest"/>
+    </classes>
+  </test>
+</suite>

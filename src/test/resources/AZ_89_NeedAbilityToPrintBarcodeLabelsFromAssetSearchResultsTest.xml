@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_89_Need Ability To PrintBarcode Labels From Asset Search Results Test">
+ <test name="AZ_89_NeedAbilityToPrintBarcodeLabelsFromAssetSearchResultsTest">
+   <classes>
+     <class name="com.auto.tests.AZ_89_NeedAbilityToPrintBarcodeLabelsFromAssetSearchResultsTest"/>
+   </classes>
+ </test>
+</suite>

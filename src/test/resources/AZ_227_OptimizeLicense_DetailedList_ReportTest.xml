@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_227 Optimize License Detailed List ReportTest case Flow">
+  <test name="AZ_227_OptimizeLicense_DetailedList_ReportTest">
+    <classes>
+      <class name="com.auto.tests.AZ_227_OptimizeLicense_DetailedList_ReportTest"/>
+    </classes>
+  </test>
+</suite>

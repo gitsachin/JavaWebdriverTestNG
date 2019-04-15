@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_9 Add Expiration Date To Licenses Test Flow">
+ <test name="AZ_9_AddExpirationDateToLicensesTest">
+   <classes>
+     <class name="com.auto.tests.AZ_9_AddExpirationDateToLicensesTest"/>
+   </classes>
+ </test>
+</suite>

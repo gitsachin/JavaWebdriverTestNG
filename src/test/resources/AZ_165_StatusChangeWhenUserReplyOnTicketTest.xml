@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_165 Status Change When User Reply On Ticket Test">
+  <test name="AZ_165_StatusChangeWhenUserReplyOnTicketTest">
+    <classes>
+      <class name="com.auto.tests.AZ_165_StatusChangeWhenUserReplyOnTicketTest"/>
+    </classes>
+  </test>
+</suite>

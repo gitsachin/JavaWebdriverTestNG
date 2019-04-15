@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_63 Login Stops Working On One Browser Test Case Flow">
+  <test name="AZ_63_LoginStopsWorkingOnOneBrowserTest">
+    <classes>
+      <class name="com.auto.tests.AZ_63_LoginStopsWorkingOnOneBrowserTest"/>
+    </classes>
+  </test>
+</suite>

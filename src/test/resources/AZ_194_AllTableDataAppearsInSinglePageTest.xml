@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_194 All Table Data Appears In Single Page Test Case Flow">
+  <test name="AZ_194_AllTableDataAppearsInSinglePageTest">
+    <classes>
+      <class name="com.auto.tests.AZ_194_AllTableDataAppearsInSinglePageTest"/>
+    </classes>
+  </test>
+</suite>

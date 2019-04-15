@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_104 Clients Filte For All Staff User Test Flow">
+  <test name="AZ_104_ClientsFilterForAllStaffUserTest">
+    <classes>
+      <class name="com.auto.tests.AZ_104_ClientsFilterForAllStaffUserTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_30_Change Text Model ToPart Number In Assets Form Test Flow">
+  <test name="AZ_30_ChangeTextModelToPartNumberInAssetsForm">
+    <classes>
+      <class name="com.auto.tests.AZ_30_ChangeTextModelToPartNumberInAssetsForm"/>
+    </classes>
+  </test>
+</suite>

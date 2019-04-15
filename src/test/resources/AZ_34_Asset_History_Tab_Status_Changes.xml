@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_34_Asset_History_Tab_Status_Changes Test Flow">
+  <test name="AZ_34_Asset_History_Tab_Status_Changes">
+    <classes>
+      <class name="com.auto.tests.AZ_34_Asset_History_Tab_Status_Changes"/>
+    </classes>
+  </test>
+</suite>

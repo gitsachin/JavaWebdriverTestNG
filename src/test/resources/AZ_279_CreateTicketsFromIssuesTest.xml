@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_279 Create Tickets From Issues Test Case Flow">
+  <test name="AZ_279_CreateTicketsFromIssuesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_279_CreateTicketsFromIssuesTest"/>
+    </classes>
+  </test>
+</suite>

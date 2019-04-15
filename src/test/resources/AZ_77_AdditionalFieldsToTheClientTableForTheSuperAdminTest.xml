@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_77_Additional Fields To The Client Table For The Super Admin Test Case Flow">
+  <test name="AZ_77_AdditionalFieldsToTheClientTableForTheSuperAdminTest">
+    <classes>
+      <class name="com.auto.tests.AZ_77_AdditionalFieldsToTheClientTableForTheSuperAdminTest"/>
+    </classes>
+  </test>
+</suite>

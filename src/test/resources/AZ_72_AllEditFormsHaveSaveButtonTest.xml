@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_72 All Edit Forms Have Save Button Test Case Flow">
+  <test name="AZ_72_AllEditFormsHaveSaveButtonTest">
+    <classes>
+      <class name="com.auto.tests.AZ_72_AllEditFormsHaveSaveButtonTest"/>
+    </classes>
+  </test>
+</suite>

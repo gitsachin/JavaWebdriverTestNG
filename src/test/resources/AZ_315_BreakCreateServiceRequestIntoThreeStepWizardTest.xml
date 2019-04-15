@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_315 Break create service request into 3 step wizard Test Flow">
+  <test name="AZ_315_BreakCreateServiceRequestIntoThreeStepWizardTest">
+    <classes>
+      <class name="com.auto.tests.AZ_315_BreakCreateServiceRequestIntoThreeStepWizardTest"/>
+    </classes>
+  </test>
+</suite>

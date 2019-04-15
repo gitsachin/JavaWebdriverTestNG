@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_67_Http sOn All Pages Test Flow">
+  <test name="AZ_67_HttpsOnAllPagesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_67_HttpsOnAllPagesTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_260 User Unable To Delete Client Test Case Flow">
+  <test name="AZ_260_UserUnableToDeleteClientTest">
+    <classes>
+      <class name="com.auto.tests.AZ_260_UserUnableToDeleteClientTest"/>
+    </classes>
+  </test>
+</suite>

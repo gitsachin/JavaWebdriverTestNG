@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_222 Back Button On Ticket Should Remember The Client And Search Values Test Flow">
+  <test name="AZ_222_BackButtonOnTicketShouldRememberTheClientAndSearchValuesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_222_BackButtonOnTicketShouldRememberTheClientAndSearchValuesTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_133 Knowledge Base Be Able To Attach Files To Articles Test Flow">
+  <test name="AZ_133_KnowledgeBaseBeAbleToAttachFilesToArticlesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_133_KnowledgeBaseBeAbleToAttachFilesToArticlesTest"/>
+    </classes>
+  </test>
+</suite>

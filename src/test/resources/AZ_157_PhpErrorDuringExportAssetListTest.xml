@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_157 Php Error During Export Asset List Test Flow">
+  <test name="AZ_157_PhpErrorDuringExportAssetListTest">
+    <classes>
+      <class name="com.auto.tests.AZ_157_PhpErrorDuringExportAssetListTest"/>
+    </classes>
+  </test>
+</suite>

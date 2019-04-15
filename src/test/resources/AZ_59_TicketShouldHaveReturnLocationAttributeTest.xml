@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-59 Ticket should have return location attribute test flow">
+  <test name="AZ_59_TicketShouldHaveReturnLocationAttributeTest">
+    <classes>
+      <class name="com.auto.tests.AZ_59_TicketShouldHaveReturnLocationAttributeTest"/>
+    </classes>
+  </test>
+</suite>

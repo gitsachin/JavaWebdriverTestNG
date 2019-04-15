@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_307 Contract Tab Highlight With Green If Asset Has Not Expied Contract Test Case Flow">
+  <test name="AZ_307_ContractTabHighlightWithGreenIfAssetHasNotExpiedContractTest">
+    <classes>
+      <class name="com.auto.tests.AZ_307_ContractTabHighlightWithGreenIfAssetHasNotExpiedContractTest"/>
+    </classes>
+  </test>
+</suite>

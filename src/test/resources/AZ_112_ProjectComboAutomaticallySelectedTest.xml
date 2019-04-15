@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_112 Project Combo Automatically Selected Test Flow">
+  <test name="AZ_112_ProjectComboAutomaticallySelectedTest">
+    <classes>
+      <class name="com.auto.tests.AZ_112_ProjectComboAutomaticallySelectedTest"/>
+    </classes>
+  </test>
+</suite>

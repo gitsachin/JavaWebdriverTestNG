@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_39 Add Text To Assign License On Asset Test Flow">
+  <test name="AZ_39_AddTextToAssignLicenseOnAssetTest">
+    <classes>
+      <class name="com.auto.tests.AZ_39_AddTextToAssignLicenseOnAssetTest"/>
+    </classes>
+  </test>
+</suite>

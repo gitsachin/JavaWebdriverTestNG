@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_226 On Asset Table Replace Related Entities With Location Test case Flow">
+  <test name="AZ_226_OnAssetTableReplaceRelatedEntitiesWithLocationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_226_OnAssetTableReplaceRelatedEntitiesWithLocationTest"/>
+    </classes>
+  </test>
+</suite>

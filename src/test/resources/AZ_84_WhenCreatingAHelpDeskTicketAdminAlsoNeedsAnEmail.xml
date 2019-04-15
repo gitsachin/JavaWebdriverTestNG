@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AZ_84 When Creating A HelpDesk Ticket Admin Also Needs An Email Test Case Flow">
+  <test name="AZ_84_WhenCreatingAHelpDeskTicketAdminAlsoNeedsAnEmail">
+    <classes>
+      <class name="com.auto.tests.AZ_84_WhenCreatingAHelpDeskTicketAdminAlsoNeedsAnEmail"/>
+    </classes>
+  </test>
+</suite>

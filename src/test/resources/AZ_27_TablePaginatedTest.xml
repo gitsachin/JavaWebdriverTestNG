@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-27 Verify the pagination button on all pages">
+  <test name="AZ-27_Table_Pagination_button">
+    <classes>
+      <class name="com.auto.tests.AZ_27_TablePaginatedTest"/>
+    </classes>
+  </test>
+</suite>

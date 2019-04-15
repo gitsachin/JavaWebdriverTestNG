@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_210 Search Field Verification On Role Page Test Flow">
+  <test name="AZ_210_SearchFieldVerificationOnRolePageTest">
+    <classes>
+      <class name="com.auto.tests.AZ_210_SearchFieldVerificationOnRolePageTest"/>
+    </classes>
+  </test>
+</suite>

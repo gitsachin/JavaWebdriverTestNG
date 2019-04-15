@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_73 Unable To Look At Existing License Test Case Flow">
+  <test name="AZ_73_UnableToLookAtExistingLicenseTest">
+    <classes>
+      <class name="com.auto.tests.AZ_73_UnableToLookAtExistingLicenseTest"/>
+    </classes>
+  </test>
+</suite>

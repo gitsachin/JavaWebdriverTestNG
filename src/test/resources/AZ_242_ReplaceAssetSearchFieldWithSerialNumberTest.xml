@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_242 Replace Asset Search Field With Serial Number Test Case Flow">
+ <test name="AZ_242_ReplaceAssetSearchFieldWithSerialNumberTest">
+   <classes>
+     <class name="com.auto.tests.AZ_242_ReplaceAssetSearchFieldWithSerialNumberTest"/>
+   </classes>
+ </test>
+</suite>

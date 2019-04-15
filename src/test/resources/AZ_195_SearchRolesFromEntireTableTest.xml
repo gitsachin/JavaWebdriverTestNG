@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_195 Search Roles From Entire Table Test Case Flow">
+  <test name="AZ_195_SearchRolesFromEntireTableTest">
+    <classes>
+      <class name="com.auto.tests.AZ_195_SearchRolesFromEntireTableTest"/>
+    </classes>
+  </test>
+</suite>

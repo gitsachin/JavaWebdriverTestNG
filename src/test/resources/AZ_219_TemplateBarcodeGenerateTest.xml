@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_219 Template Barcode Generate Test Flow">
+  <test name="AZ_219_TemplateBarcodeGenerateTest">
+    <classes>
+      <class name="com.auto.tests.AZ_219_TemplateBarcodeGenerateTest"/>
+    </classes>
+  </test>
+</suite>

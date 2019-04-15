@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_99_Staff Members Can See More Than One Client Test Case Flow">
+  <test name="AZ_99_StaffMembersCanSeeMoreThanOneClientTest">
+    <classes>
+      <class name="com.auto.tests.AZ_99_StaffMembersCanSeeMoreThanOneClientTest"/>
+    </classes>
+  </test>
+</suite>

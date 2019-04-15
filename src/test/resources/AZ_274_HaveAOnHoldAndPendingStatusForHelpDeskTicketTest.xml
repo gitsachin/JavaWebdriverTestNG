@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_274 Have A On Hold And Pending Status For Help Desk Ticket Test Case Flow">
+  <test name="AZ_274_HaveAOnHoldAndPendingStatusForHelpDeskTicketTest">
+    <classes>
+      <class name="com.auto.tests.AZ_274_HaveAOnHoldAndPendingStatusForHelpDeskTicketTest"/>
+    </classes>
+  </test>
+</suite>

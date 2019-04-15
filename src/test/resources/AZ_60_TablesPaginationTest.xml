@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_60 Tables Pagination Test Case Flow">
+  <test name="AZ_60_TablesPaginationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_60_TablesPaginationTest"/>
+    </classes>
+  </test>
+</suite>

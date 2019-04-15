@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_78 Create Reporting Job Framework Test Case Flow">
+  <test name="AZ_78_CreateReportingJobFrameworkTest">
+    <classes>
+      <class name="com.auto.tests.AZ_78_CreateReportingJobFrameworkTest"/>
+    </classes>
+  </test>
+</suite>

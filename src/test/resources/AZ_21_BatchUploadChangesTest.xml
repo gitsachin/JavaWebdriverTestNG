@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_21 Batch Upload Changes Test Flow">
+  <test name="AZ_21_BatchUploadChangesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_21_BatchUploadChangesTest"/>
+    </classes>
+  </test>
+</suite>

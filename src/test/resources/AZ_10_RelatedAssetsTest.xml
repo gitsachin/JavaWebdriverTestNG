@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_10 Related Assets Test Flow">
+  <test name="AZ_10_RelatedAssetsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_10_RelatedAssetsTest"/>
+    </classes>
+  </test>
+</suite>

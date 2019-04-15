@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_14 Locations Can Be Nested Test Flow">
+  <test name="AZ_14_LocationsCanBeNestedTest">
+    <classes>
+      <class name="com.auto.tests.AZ_14_LocationsCanBeNestedTest"/>
+    </classes>
+  </test>
+</suite>

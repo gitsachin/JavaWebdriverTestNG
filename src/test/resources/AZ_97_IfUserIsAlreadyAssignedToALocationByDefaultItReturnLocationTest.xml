@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_97_If User Is Already Assigned To A Location By Default ItReturn Location Test Flow">
+  <test name="AZ_97_IfUserIsAlreadyAssignedToALocationByDefaultItReturnLocationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_97_IfUserIsAlreadyAssignedToALocationByDefaultItReturnLocationTest"/>
+    </classes>
+  </test>
+</suite>

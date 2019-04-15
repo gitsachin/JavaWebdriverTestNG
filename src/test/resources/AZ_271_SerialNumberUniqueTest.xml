@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_271 Serial Number Unique Test Case Flow">
+  <test name="AZ_271_SerialNumberUniqueTest">
+    <classes>
+      <class name="com.auto.tests.AZ_271_SerialNumberUniqueTest"/>
+    </classes>
+  </test>
+</suite>

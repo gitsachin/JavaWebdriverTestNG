@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_6 Batch_upload_of_assets_via_excel Test Flow">
+  <test name="AZ_6_Batch_upload_of_assets_via_excelTest">
+    <classes>
+      <class name="com.auto.tests.AZ_6_Batch_upload_of_assets_via_excelTest"/>
+    </classes>
+  </test>
+</suite>

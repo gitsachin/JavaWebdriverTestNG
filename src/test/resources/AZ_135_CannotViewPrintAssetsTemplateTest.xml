@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_135 Cannot View Print Assets Template Test Flow">
+  <test name="AZ_135_CannotViewPrintAssetsTemplateTest">
+    <classes>
+      <class name="com.auto.tests.AZ_135_CannotViewPrintAssetsTemplateTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_91_Help Desk Ticket Emails Need More Information Test Case Flow">
+  <test name="AZ_91_HelpDeskTicketEmailsNeedMoreInformation">
+    <classes>
+      <class name="com.auto.tests.AZ_91_HelpDeskTicketEmailsNeedMoreInformation"/>
+    </classes>
+  </test>
+</suite>

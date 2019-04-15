@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_114_Add Count To The Table For Inventory Attributes Status Manufacturers Test Flow">
+  <test name="AZ_114_AddCountToTheTableForInventoryAttributesStatusManufacturersTest">
+    <classes>
+      <class name="com.auto.tests.AZ_114_AddCountToTheTableForInventoryAttributesStatusManufacturersTest"/>
+    </classes>
+  </test>
+</suite>

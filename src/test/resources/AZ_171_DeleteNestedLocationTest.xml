@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_171 Delete Nested Location Test Flow">
+  <test name="AZ_171_DeleteNestedLocationTest">
+    <classes>
+      <class name="com.auto.tests.AZ_171_DeleteNestedLocationTest"/>
+    </classes>
+  </test>
+</suite>

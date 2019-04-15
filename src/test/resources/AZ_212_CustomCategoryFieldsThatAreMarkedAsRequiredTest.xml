@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_212 Custom Category Fields That Are Marked As Required Test Case Flow">
+  <test name="AZ_212_CustomCategoryFieldsThatAreMarkedAsRequiredTest">
+    <classes>
+      <class name="com.auto.tests.AZ_212_CustomCategoryFieldsThatAreMarkedAsRequiredTest"/>
+    </classes>
+  </test>
+</suite>

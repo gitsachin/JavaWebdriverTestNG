@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_190 Reset Password From User Edit Screen Test Case Flow">
+  <test name="AZ_190_ResetPasswordFromUserEditScreenTest">
+    <classes>
+      <class name="com.auto.tests.AZ_190_ResetPasswordFromUserEditScreenTest"/>
+    </classes>
+  </test>
+</suite>

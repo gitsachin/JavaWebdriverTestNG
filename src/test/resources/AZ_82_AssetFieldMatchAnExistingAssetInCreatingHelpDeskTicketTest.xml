@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_82 Asset Field Match An Existing Asset In Creating Help Desk Ticket Test Case Flow">
+  <test name="AZ_82_AssetFieldMatchAnExistingAssetInCreatingHelpDeskTicketTest">
+    <classes>
+      <class name="com.auto.tests.AZ_82_AssetFieldMatchAnExistingAssetInCreatingHelpDeskTicketTest"/>
+    </classes>
+  </test>
+</suite>

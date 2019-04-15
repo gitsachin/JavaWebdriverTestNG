@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_68 Create Filtering For Licenses Test Case Flow">
+  <test name="AZ_68_CreateFilteringForLicensesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_68_CreateFilteringForLicensesTest"/>
+    </classes>
+  </test>
+</suite>

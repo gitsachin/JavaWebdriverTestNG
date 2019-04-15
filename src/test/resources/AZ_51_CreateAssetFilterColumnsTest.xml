@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_51 Create Asset Filter Columns Test Flow">
+  <test name="AZ_51_CreateAssetFilterColumnsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_51_CreateAssetFilterColumnsTest"/>
+    </classes>
+  </test>
+</suite>

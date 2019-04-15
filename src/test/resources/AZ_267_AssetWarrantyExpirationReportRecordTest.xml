@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_267 Asset Warranty Expiration Report Record Test Case Flow">
+  <test name="AZ_267_AssetWarrantyExpirationReportRecordTest">
+    <classes>
+      <class name="com.auto.tests.AZ_267_AssetWarrantyExpirationReportRecordTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_108 Locations Menu Shouldn't Be Under Asset Attributes Test Flow">
+  <test name="AZ_108_LocationsMenuShouldnotBeUnderAssetAttributesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_108_LocationsMenuShouldnotBeUnderAssetAttributesTest"/>
+    </classes>
+  </test>
+</suite>

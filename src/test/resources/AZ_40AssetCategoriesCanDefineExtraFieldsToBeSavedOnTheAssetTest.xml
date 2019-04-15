@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_40Asset Categories Can Define Extra Fields To Be Saved On The Asset Test">
+  <test name="AZ_40AssetCategoriesCanDefineExtraFieldsToBeSavedOnTheAssetTest">
+    <classes>
+      <class name="com.auto.tests.AZ_40AssetCategoriesCanDefineExtraFieldsToBeSavedOnTheAssetTest"/>
+    </classes>
+  </test>
+</suite>

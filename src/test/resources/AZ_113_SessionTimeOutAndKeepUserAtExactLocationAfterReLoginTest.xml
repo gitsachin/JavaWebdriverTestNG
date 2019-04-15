@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_113_Session TimeOut And Keep User At Exact Location After Re-Login Test Test Flow">
+  <test name="AZ_113_SessionTimeOutAndKeepUserAtExactLocationAfterReLoginTest">
+    <classes>
+      <class name="com.auto.tests.AZ_113_SessionTimeOutAndKeepUserAtExactLocationAfterReLoginTest"/>
+    </classes>
+  </test>
+</suite>

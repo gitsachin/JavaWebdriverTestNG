@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_85 HelpDesk Ticket Custom Fields Should Be Permissioned By Role Test Case Flow">
+  <test name="AZ_85_HelpDeskTicketCustomFieldsShouldBePermissionedByRoleTest">
+    <classes>
+      <class name="com.auto.tests.AZ_85_HelpDeskTicketCustomFieldsShouldBePermissionedByRoleTest"/>
+    </classes>
+  </test>
+</suite>

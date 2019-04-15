@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_56 Batch Uploads Need Accept .Xls And .Csv Test Flow">
+  <test name="AZ_56_BatchUploadsNeedAcceptXlsAndCsvTest">
+    <classes>
+      <class name="com.auto.tests.AZ_56_BatchUploadsNeedAcceptXlsAndCsvTest"/>
+    </classes>
+  </test>
+</suite>

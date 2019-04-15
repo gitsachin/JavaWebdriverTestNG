@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_225 Add Serial Number Search Functionality Under Asset Test Flow">
+  <test name="AZ_225_AddSserialNumberSearchFunctionalityUnderAssetTest">
+    <classes>
+      <class name="com.auto.tests.AZ_225_AddSserialNumberSearchFunctionalityUnderAssetTest"/>
+    </classes>
+  </test>
+</suite>

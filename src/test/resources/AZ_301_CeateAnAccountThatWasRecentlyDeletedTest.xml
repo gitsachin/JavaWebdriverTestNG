@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_301 Ceate An Account That Was Recently Deleted Test Flow">
+  <test name="AZ_301_CeateAnAccountThatWasRecentlyDeletedTest">
+    <classes>
+      <class name="com.auto.tests.AZ_301_CeateAnAccountThatWasRecentlyDeletedTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_246 Additional Ticket Detail Fields Test Case Flow">
+ <test name="AZ_246_AdditionalTicketDetailFieldsTest">
+   <classes>
+     <class name="com.auto.tests.AZ_246_AdditionalTicketDetailFieldsTest"/>
+   </classes>
+ </test>
+</suite>

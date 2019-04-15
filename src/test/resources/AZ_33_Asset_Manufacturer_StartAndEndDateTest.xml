@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-33 Verify the Manufacturer Warranty Start And End Date label ">
+  <test name="AZ-33_Verify_the_Manufacturer_Warranty_Start_And_End_Date_label">
+    <classes>
+      <class name="com.auto.tests.AZ_33_Assert_Manufacturer_StartAndEndDateTest"/>
+    </classes>
+  </test>
+</suite>

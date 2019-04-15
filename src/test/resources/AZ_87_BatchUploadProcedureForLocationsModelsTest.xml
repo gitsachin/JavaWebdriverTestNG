@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_87 Batch Upload Procedure For Locations Models Test Case Flow">
+  <test name="AZ_87_BatchUploadProcedureForLocationsModelsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_87_BatchUploadProcedureForLocationsModelsTest"/>
+    </classes>
+  </test>
+</suite>

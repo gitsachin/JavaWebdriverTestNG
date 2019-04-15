@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_277 Report Job Have Re-Run Frequency And Email Functionality Test Case Flow">
+  <test name="AZ_277_ReportJobHaveReRun_FrequencyAndEmailFunctionalityTest">
+    <classes>
+      <class name="com.auto.tests.AZ_277_ReportJobHaveReRun_FrequencyAndEmailFunctionalityTest"/>
+    </classes>
+  </test>
+</suite>

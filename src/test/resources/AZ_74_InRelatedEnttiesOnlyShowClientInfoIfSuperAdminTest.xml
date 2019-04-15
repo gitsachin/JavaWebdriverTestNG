@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_74_In Related Entties Only Show Client Info If Super Admin Test Case Flow">
+  <test name="AZ_74_InRelatedEnttiesOnlyShowClientInfoIfSuperAdminTest">
+    <classes>
+      <class name="com.auto.tests.AZ_74_InRelatedEnttiesOnlyShowClientInfoIfSuperAdminTest"/>
+    </classes>
+  </test>
+</suite>

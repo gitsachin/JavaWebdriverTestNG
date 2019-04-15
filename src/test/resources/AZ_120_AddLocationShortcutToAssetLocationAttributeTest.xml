@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_120 Add loaction shortcut to asset location attribute Test Flow">
+  <test name="AZ_120_AddLocationShortcutToAssetLocationAttributeTest">
+    <classes>
+      <class name="com.auto.tests.AZ_120_AddLocationShortcutToAssetLocationAttributeTest"/>
+    </classes>
+  </test>
+</suite>

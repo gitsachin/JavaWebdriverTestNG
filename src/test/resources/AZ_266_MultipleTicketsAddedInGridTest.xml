@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_266 Multiple Tickets Added In Grid Test Case Flow">
+  <test name="AZ_266_MultipleTicketsAddedInGridTest">
+    <classes>
+      <class name="com.auto.tests.AZ_266_MultipleTicketsAddedInGridTest"/>
+    </classes>
+  </test>
+</suite>

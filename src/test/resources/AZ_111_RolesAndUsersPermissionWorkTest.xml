@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_111 Roles And Users Permission Work Test Flow">
+  <test name="AZ_111_RolesAndUsersPermissionWorkTest">
+    <classes>
+      <class name="com.auto.tests.AZ_111_RolesAndUsersPermissionWorkTest"/>
+    </classes>
+  </test>
+</suite>

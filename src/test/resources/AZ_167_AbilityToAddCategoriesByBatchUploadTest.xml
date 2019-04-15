@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_167 Ability To Add Categories By Batch Upload Test Case Flow">
+  <test name="AZ_167_AbilityToAddCategoriesByBatchUploadTest">
+    <classes>
+      <class name="com.auto.tests.AZ_167_AbilityToAddCategoriesByBatchUploadTest"/>
+    </classes>
+  </test>
+</suite>

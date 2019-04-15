@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_232 Location Page Is Too Slow Test case Flow">
+  <test name="AZ_232_LocationPageIsTooSlowTest">
+    <classes>
+      <class name="com.auto.tests.AZ_232_LocationPageIsTooSlowTest"/>
+    </classes>
+  </test>
+</suite>

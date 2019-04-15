@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_88 Label And Copy To Functionality For Custom Asset Fields Test Case Flow">
+  <test name="AZ_88_LabelAndCopyToFunctionalityForCustomAssetFieldsTest">
+    <classes>
+      <class name="com.auto.tests.AZ_88_LabelAndCopyToFunctionalityForCustomAssetFieldsTest"/>
+    </classes>
+  </test>
+</suite>

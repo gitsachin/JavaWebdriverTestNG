@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_294 Delete Several Tabs From Client Dialog Test Case Flow">
+  <test name="AZ_294_DeleteSeveralTabsFromClientDialogTest">
+    <classes>
+      <class name="com.auto.tests.AZ_294_DeleteSeveralTabsFromClientDialogTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ-180 User not able to clear 'Company Name' field during signup Test Flow">
+  <test name="AZ_180_ClientFieldClearTest">
+    <classes>
+      <class name="com.auto.tests.AZ_180_ClientFieldClearTest"/>
+    </classes>
+  </test>
+</suite>

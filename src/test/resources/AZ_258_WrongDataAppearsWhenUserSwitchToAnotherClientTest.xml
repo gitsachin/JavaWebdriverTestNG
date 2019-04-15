@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_258 Wrong Data Appears When User Switch To Another Client Test Case Flow">
+  <test name="AZ_258_WrongDataAppearsWhenUserSwitchToAnotherClientTest">
+    <classes>
+      <class name="com.auto.tests.AZ_258_WrongDataAppearsWhenUserSwitchToAnotherClientTest"/>
+    </classes>
+  </test>
+</suite>

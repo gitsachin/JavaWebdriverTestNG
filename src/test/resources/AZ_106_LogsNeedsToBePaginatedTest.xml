@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_106_Logs Needs To Be Paginated Test Flow">
+  <test name="AZ_106_LogsNeedsToBePaginatedTest">
+    <classes>
+      <class name="com.auto.tests.AZ_106_LogsNeedsToBePaginatedTest"/>
+    </classes>
+  </test>
+</suite>

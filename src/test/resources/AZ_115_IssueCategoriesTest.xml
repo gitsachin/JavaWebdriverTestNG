@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_115_Issue Categories Test Flow">
+  <test name="AZ_115_IssueCategoriesTest">
+    <classes>
+      <class name="com.auto.tests.AZ_115_IssueCategoriesTest"/>
+    </classes>
+  </test>
+</suite>

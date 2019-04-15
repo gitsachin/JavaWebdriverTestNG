@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_130 Verify Save and Send Email Button On Help Desk">
+  <test name="AZ_130_VerifySaveAndSendEmailButtonOnHelpDeskTest">
+    <classes>
+      <class name="com.auto.tests.AZ_130_VerifySaveAndSendEmailButtonOnHelpDeskTest"/>
+    </classes>
+  </test>
+</suite>

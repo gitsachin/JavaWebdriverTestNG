@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_241 Client Update Test Case Flow">
+ <test name="AZ_241_ClientUpdateTest">
+   <classes>
+     <class name="com.auto.tests.AZ_241_ClientUpdateTest"/>
+   </classes>
+ </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_259 Root Location Appears Itself In Parent Location Field Test Flow">
+  <test name="AZ_259_RootLocationAppearsItselfInParentLocationFieldTest">
+    <classes>
+      <class name="com.auto.tests.AZ_259_RootLocationAppearsItselfInParentLocationFieldTest"/>
+    </classes>
+  </test>
+</suite>

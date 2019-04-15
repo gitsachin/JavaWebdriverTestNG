@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_131_Client User Batch Upload Add Location Fiel To Batch Upload Template Test Flow">
+  <test name="AZ_131_ClientUserBatchUploadAddLocationFieldToBatchUploadTemplateTest">
+    <classes>
+      <class name="com.auto.tests.AZ_131_ClientUserBatchUploadAddLocationFieldToBatchUploadTemplateTest"/>
+    </classes>
+  </test>
+</suite>

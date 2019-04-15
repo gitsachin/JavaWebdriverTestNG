@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AZ_295/297/298/302/306/320/310/312 Rename Menus And Design Change Test Flow">
+  <test name="AZ_295_297_298_302_306_320_310_312_RenameMenusAndDesignChangeTest">
+    <classes>
+      <class name="com.auto.tests.AZ_295_297_298_302_306_320_310_312_RenameMenusAndDesignChangeTest"/>
+    </classes>
+  </test>
+</suite>
