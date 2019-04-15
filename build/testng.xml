@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name='Aszet_AutoTest' verbose='10'>
+
+
+	<!-- AZ-12 Create New Customer Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_12_CreateNewCustomerFlowTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- AZ-55 Verify ticket setting under help desk -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_55_HelpDesk_TicketSettingTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-33 Verify the Manufacturer Warranty Start And End Date Test -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_33_Asset_Manufacturer_StartAndEndDateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-20 Creating Assets Who Can Do What -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_20_Creating_Assets_Who_Can_Do_WhatTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- AZ-27 Verify pagination of table on all pages -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_27_TablePaginatedTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-28 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_28_VerifyAssetNameOverMailTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-31 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_31_AssetAttributesHaveClientSpecificComboTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-34 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_34_Asset_History_Tab_Status_ChangesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-6 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_6_Batch_upload_of_assets_via_excelTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-30 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_30_ChangeTextModelToPartNumberInAssetsForm.xml"></suite-file>
+	</suite-files>
+
+	<!-- Smoke Test To Create Assets -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/SmokeTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-45 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_45_CreateNewLicensesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-16 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_16_LeftHandMenuChangesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-51 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_51_CreateAssetFilterColumnsTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-62 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_62_UpdateTabNameAndChangeTabPositionInEditAssetTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-63 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_63_LoginStopsWorkingOnOneBrowserTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-46 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_46_HelpDeskTicketsNeedCustomizableFieldsTest.xml"></suite-file>
+	</suite-files>
+
+
+	<!-- Jira ticket AZ-73 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_73_UnableToLookAtExistingLicenseTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-72 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_72_AllEditFormsHaveSaveButtonTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-81 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_81_CreateAnAssetWithSuperUserAccountTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-88 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_88_LabelAndCopyToFunctionalityForCustomAssetFieldsTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-93 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_93_DashboardLimitResultsInCategoriesAndActiveHelpTicketsSectionTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-82 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_82_AssetFieldMatchAnExistingAssetInCreatingHelpDeskTicketTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-92 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_92_BLANKFilterIfBlanksExistTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-89 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_89_NeedAbilityToPrintBarcodeLabelsFromAssetSearchResultsTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-99 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_99_StaffMembersCanSeeMoreThanOneClientTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-105 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_105_Only_1_pageOfDataDoNotDisplayThePaginatorTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-112 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_112_ProjectComboAutomaticallySelectedTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-117 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_117_SearchBrokenWhenSearchingForAnAssetTagTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-120 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_120_AddLocationShortcutToAssetLocationAttributeTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-108 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_108_LocationsMenuShouldnotBeUnderAssetAttributesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-59 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_59_TicketShouldHaveReturnLocationAttributeTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-57 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_57_LocationsNeedMailingAddressAndPhoneNumberTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-58 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_58_UserHasLocationAttributeTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-122 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_122_SecurityIssuetheRootDirectoryDisplayedtotheuserTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-135 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_135_CannotViewPrintAssetsTemplateTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-157 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_157_PhpErrorDuringExportAssetListTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-90 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_90_LicenseTestPageTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-29 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_29_UrlLaunchTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-39 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_39_AddTextToAssignLicenseOnAssetTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-38 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_38_BatchUploadLicensesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-9 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_9_AddExpirationDateToLicensesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-25 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_25_AssetModelsHaveAssetManufacturerParentTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-24 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_24_ClientObjectHaveClientLogoTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-8 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_8_AttributesSectionsHaveViewButtonTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-19 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_19_LoginPageColorAndLogoChangesOnOverallSiteTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-19 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_21_BatchUploadChangesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-56 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_56_BatchUploadsNeedAcceptXlsAndCsvTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-50 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_50_UploadButtonShouldChangeToCloseButtonAfterFileUploadTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-167 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_167_AbilityToAddCategoriesByBatchUploadTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-14 -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_14_LocationsCanBeNestedTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-170 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_170_RefreshGridAfterDeleteReordsTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-171 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_171_DeleteNestedLocationTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-7 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_7_AttributesSectionToTheRolesPermissionsAreaTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-113 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_113_SessionTimeOutAndKeepUserAtExactLocationAfterReLoginTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-47 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_47_NoPermissionToSeeProjectsOrLicensesTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-77 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_77_AdditionalFieldsToTheClientTableForTheSuperAdminTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- Jira ticket AZ-76 -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_76_DuplicateClientOrUserNameCheckShouldBeCaseInsensitiveTest.xml"></suite-file>
+	</suite-files>
+
+	<!-- AZ-166 Verify Fields In License Record -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_166_VerifyFieldInLicenseRecordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-130 Verify Save Button -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_130_VerifySaveAndSendEmailButtonOnHelpDeskTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-13 Upload avatar Image -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_13_AllowUserToUploadProfilePictureTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-152 Verify action button dropdown list -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_152_ConsolidationOfButtonActionsIntoActionDropdownTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-172 Verify number of issue in count column for issue submenu -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_173_IssueCategoriesListHaveCountColumnAndShowNumberOfIssueTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_37_Make Roles Client Based Add Client Id To Role -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_37_MakeRolesClientBasedAddClientIdToRole.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-116 Search data and verify table -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_116_WhenTypingTextOnTableToFilterResultsIfYouDeleteTheTextBackToEmptyAllTheResultsShouldComeBackTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_160 Nest Existing Locations To NewRoot Location -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_160_NestExistingLocationsToNewRootLocationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_69 Create Filtering For Issues Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_69_CreateFilteringForIssuesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_34_Asset_History_Tab_Status_Changes Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_34_Asset_History_Tab_Status_Changes.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_80_If User Has Read Only Access On Asset Object Then The First Tab 
+		Should Still Be Visibile Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_80_IfUserHasReadOnlyAccessOnAssetObjectThenTheFirstTabShouldStillBeVisibile.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_66_Export As Csv Excel Asset Filtered Results Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_66_ExportAsCsvExcelAssetFilteredResultsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_103_Changes In Saving And Editing Of Locations Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_103_ChangesInSavingAndEditingOfLocationsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_67_Https On All Pages Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_67_HttpsOnAllPagesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_114_Add Count To The Table For Inventory Attributes Status Manufacturers 
+		Test flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_114_AddCountToTheTableForInventoryAttributesStatusManufacturersTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_115_Issue Categories Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_115_IssueCategoriesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_40 Asset Categories Can Define Extra Fields To Be Saved On The Asset 
+		Test -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_40AssetCategoriesCanDefineExtraFieldsToBeSavedOnTheAssetTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_48_ Domain Specific Urls For Clients Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_48_DomainSpecificUrlsForClientsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_100 Reset Password Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_100_ResetPasswordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_96_ Editing Existing Users Does NotWork Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_96_EditingExistingUsersDoesNotWorkTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_106_Logs Needs To Be Paginated Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_106_LogsNeedsToBePaginatedTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_97 If User Is Already Assigned To A Location By Default It Return 
+		Location Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_97_IfUserIsAlreadyAssignedToALocationByDefaultItReturnLocationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_91_Help Desk Ticket Emails Need More Information Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_91_HelpDeskTicketEmailsNeedMoreInformation.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_84 When Creating A HelpDesk Ticket Admin Also Needs An Email Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_84_WhenCreatingAHelpDeskTicketAdminAlsoNeedsAnEmail.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_74_In Related Entties Only Show Client Info If Super Admin Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_74_InRelatedEnttiesOnlyShowClientInfoIfSuperAdminTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_68 Create Filtering For Licenses Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_68_CreateFilteringForLicensesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_35 Forgot Password Functionality Is Broken Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_35_ForgotPasswordFunctionalityIsBrokenTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_133 Knowledge Base Be Able To Attach Files To Articles Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_133_KnowledgeBaseBeAbleToAttachFilesToArticlesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_131_Client User Batch Upload Add Location Fiel To Batch Upload Template 
+		Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_131_ClientUserBatchUploadAddLocationFieldToBatchUploadTemplateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_134_Can not Create New Ticket As User In Newgistics Client Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_134_CannotCreateNewTicketAsUserInNewgisticsClient.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_60 Tables Pagination Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_60_TablesPaginationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_83_Help Desk Ticket Custom Fields Needs To Be Permissioned Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_83_HelpDeskTicketCustomFieldsNeedsToBePermissioned.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_101 Make ALL Tables Work And Behave As The Assets Table Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_101_MakeALLTablesWorkAndBehaveAsTheAssetsTableTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_123 404 Pages Template Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_123_404PagesTemplateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_111 Roles And Users Permission Work Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_111_RolesAndUsersPermissionWorkTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_79 Make All Tables Able To Sort And Toggle Between Asc And Desc 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_79_MakeAllTablesAbleToSortAndToggleBetweenAscAndDescTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_94 Generate Multiple help Desk Tickets All With Same Base Information 
+		Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_94_GenerateMultiplehelpDeskTicketsAllWithSameBaseInformationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_85 HelpDesk Ticket Custom Fields Should Be Permissioned By Role 
+		Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_85_HelpDeskTicketCustomFieldsShouldBePermissionedByRoleTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_121 Check While Deleting The User If It Is Client Admin Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_121_CheckWhileDeletingTheUserIfItIsClientAdminTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_86 Out Of The Box Field Should Be Able To Be Hidden Via Configuration 
+		Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_86_OutOfTheBoxFieldShouldBeAbleToBeHiddenViaConfigurationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_87 Batch Upload Procedure For Locations Models Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_87_BatchUploadProcedureForLocationsModelsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_107 Delete User While Deleting The Client Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_107_DeleteUserWhileDeletingTheClientTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_119 Remove Ajax Search Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_119_RemoveAjaxSearchTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_15_Asset Screen Responsive Design Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_15_AssetScreenResponsiveDesignTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_44 Login Page On Mobile Phone Scroll To See The Password Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_44_LoginPageOnMobilePhoneScrollToSeeThePasswordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_54 Users Should Only See Their Tickets Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_54_UsersShouldOnlySeeTheirTicketsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_129 Attributes Need ToHave Shared Values Across All Clients Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_129_AttributesNeedToHaveSharedValuesAcrossAllClientsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_136 Upload Batch File With Valid Format Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_136_UploadBatchFileWithValidFormatTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_52 Batch Import Users Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_52_BatchImportUsersTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_78 Create Reporting Job Framework Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_78_CreateReportingJobFrameworkTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_187 Continue Button Disappear From Password Set Screen Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_187_ContinueButtonDisappearFromPasswordSetSecrrenTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_211 Move Issue Under Project As A Sub-Node Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_211_MoveIssueUnderProjectAsASub_NodeTest.xml">
+		</suite-file>
+	</suite-files>
+
+
+	<!-- AZ_103_Changes In Saving And Editing Of Locations Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_103_ChangesInSavingAndEditingOfLocationsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_15_Asset Screen Responsive Design Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_15_AssetScreenResponsiveDesignTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_44 Login Page On Mobile Phone Scroll To See The Password Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_44_LoginPageOnMobilePhoneScrollToSeeThePasswordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_54 Users Should Only See Their Tickets Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_54_UsersShouldOnlySeeTheirTicketsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_129 Attributes Need ToHave Shared Values Across All Clients Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_129_AttributesNeedToHaveSharedValuesAcrossAllClientsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_136 Upload Batch File With Valid Format Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_136_UploadBatchFileWithValidFormatTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_52 Batch Import Users Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_52_BatchImportUsersTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_78 Create Reporting Job Framework Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_78_CreateReportingJobFrameworkTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_187 Continue Button Disappear From Password Set Screen Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_187_ContinueButtonDisappearFromPasswordSetSecrrenTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_211 Move Issue Under Project As A Sub-Node Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_211_MoveIssueUnderProjectAsASub_NodeTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_186 Password Generator Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_186_PasswordGeneratorTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_212 Custom Category Fields That Are Marked As Required Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_212_CustomCategoryFieldsThatAreMarkedAsRequiredTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_206 Verify Confirm Field Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_206_VerifyConfirmFieldTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_104 Clients Filte For All Staff User Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_104_ClientsFilterForAllStaffUserTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_75 Allow Only character Letters In Client Name Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_75_AllowOnlycharacterLettersInClientNameTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- User not able to clear 'Company Name' field during signup Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_180_ClientFieldClearTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_188 Search Field Not Present In Delete User Section Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_188_SearchFieldNotPresentInDeleteUserSectionTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_132 Add Requirement Permission Checkbox To Ticket Fields Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_132_AddRequirementPermissionCheckboxToTicketFieldsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_210 Search Field Verification On Role Page Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_210_SearchFieldVerificationOnRolePageTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_219 Template Barcode Generate Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_219_TemplateBarcodeGenerateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_26 Client Combo Is Available Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_26_ClientComboIsAvailableTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_226 On Asset Table Replace Related Entities With Location Test case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_226_OnAssetTableReplaceRelatedEntitiesWithLocationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_231 Client List Under Client Roles Tab Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_231_ClientListUnderClientRolesTabTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_214 Create Edit Delete Plans Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_214_CreateEditDeletePlansTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_220 Continue Loading Appears While Search Asset Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_220_ContinueLoadingAppearsWhileSearchAssetTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_244_Related Replace By Location In Client Assets Login With Staff 
+		Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_244_CheckRelatedReplaceByLocationInClientAssetsLoginWithStaffTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_246 Additional Ticket Detail Fields Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_246_AdditionalTicketDetailFieldsTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_126_Edit User Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_126_EditUserTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_125 Create New Account Test Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_125_CreateNewAccountTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_235 Table Data Appears According To Selected Client Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_235_TableDataAppearsAccordingToSelectedClientTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_225 Add Serial Number Search Functionality Under Asset Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_225_AddSserialNumberSearchFunctionalityUnderAssetTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_242 Replace Asset Search Field With Serial Number Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_242_ReplaceAssetSearchFieldWithSerialNumberTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_262 Service End Date Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_262_ServiceEndDateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_252 Force Reset Password Message Popup Dialog Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_252_ForceResetPasswordMessagePopupDialogTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_259 Root Location Appears Itself In Parent Location Field Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_259_RootLocationAppearsItselfInParentLocationFieldTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_241 Client Update Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_241_ClientUpdateTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_263 Location Field Present In User Ticket Dashboard Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_263_LocationFieldPresentInUserTicketDashboardTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_234 Location Search Functionality Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_234_LocationSearchFunctionalityTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_238 User Unable To Create New Location Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_238_UserUnableToCreateNewLocationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_254 When Staff Adds Client He Should Be Linked To That Client Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_254_WhenStaffAddsClientHeShouldBeLinkedToThatClientTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_230 Template Field Verify Test case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_230_TemplateFieldVerifyTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_227 Optimize License Detailed List Report Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_227_OptimizeLicense_DetailedList_ReportTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_178 Forgot Password Rest Test -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_178_ForgotPasswrdRestTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_209 Pagination Info Appears In Predefined Replies Page Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_209_PaginationInfoAppearsInPredefinedRepliesPageTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_224 Add Date Range To Warranty Report Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_224_AddDateRangeToWarrantyReportTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_221 Client Can Not Be Added With Existing Email Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_221_ClientCanNotBeAddedWithExistingEmailTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_216 Error Occurred Validation Appears While Reset Password Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_216_ErrorOccurredValidationAppearsWhileResetPasswordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_268 ToolTip Appears On EditTicket popup Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_268_ToolTipAppearsOnEditTicketpopupTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_260 User Unable To Delete Client Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_260_UserUnableToDeleteClientTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_247 Ticket Assign To Default Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_247_TicketAssignToDefaultTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_195 Search Roles From Entire Table Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_195_SearchRolesFromEntireTableTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_194 All Table Data Appears In Single Page Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_194_AllTableDataAppearsInSinglePageTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_272_264_JS Overhaul On Client Page And Validate Password Filed Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_272_264_JSOverhaulOnClientPageTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_271 Serial Number Unique Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_271_SerialNumberUniqueTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ-109 Locations QTY Test Case Flow -->
+	<suite-files>
+		<suite-file path=".//src/test/resources/AZ_109_LocationsQTYTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_22 Location Needs Localization Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_22_LocationNeedsLocalizationTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_265_256 Export File Record Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_265_256_ExportFileRecordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_267 Asset Warranty Expiration Report Record Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_267_AssetWarrantyExpirationReportRecordTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_222 Back Button On Ticket Should Remember The Client And Search 
+		Values Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_222_BackButtonOnTicketShouldRememberTheClientAndSearchValuesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_258 Wrong Data Appears When User Switch To Another Client Test Case 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_258_WrongDataAppearsWhenUserSwitchToAnotherClientTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_274 Have A On Hold And Pending Status For Help Desk Ticket Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_274_HaveAOnHoldAndPendingStatusForHelpDeskTicketTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_281 Remove Fields From Tickets And Issues For Users Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_281_RemoveFieldsFromTicketsAndIssuesForUsersTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_282 Clear Subject And Message For Any New Ticket Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_282_ClearSubjectAndMessageForAnyNewTicketTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_279 Create Tickets From Issues Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_279_CreateTicketsFromIssuesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_232 Location Page Is Too Slow Test case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_232_LocationPageIsTooSlowTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_190 Reset Password From User Edit Screen Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_190_ResetPassswordFromUserEditScreenTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_165 Status Change When User Reply On Ticket Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_165_StatusChangeWhenUserReplyOnTicketTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_275_Creating New Help Ticket Attach Picture And Close The Entire 
+		Ticket Nothing Is Saved Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_275_CreatingNewHelpTicketTryingToAttachAPictureAndXToCloseItClosesTheEntireTicketNothingIsSavedTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_11 When Creating New User Unable To See Roles To Assign The User 
+		Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_11_WhenCreatingNewUserUnableToSeeRolesToAssignTheUserTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_154 Ability To Re_Run A Report Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_154_AbilityToRe_RunAReportTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_266 Multiple Tickets Added In Grid Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_266_MultipleTicketsAddedInGridTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_295/297/298/302/306/320/310/312 Rename Menus And Design Change Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_295_297_298_302_306_320_310_312_RenameMenusAndDesignChangeTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_296 Create New Help Desk Ticket Rule Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_296_CreateNewHelpDeskTicketRuleTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_294 Delete Several Tabs From Client Dialog Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_294_DeleteSeveralTabsFromClientDialogTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_301 Create An Account That Was Recently Deleted Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_301_CeateAnAccountThatWasRecentlyDeletedTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_191 All Records Option Available In Category Dropdown List Test 
+		Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_191_AllRecordsOptionAvailableInCategoryDropdownListTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_31_273 Create Client And Verify Admin And User Role Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_314_273_CreateClientAndVerifyAdminAndUserRoleTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_315 Break create service request into 3 step wizard Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_315_BreakCreateServiceRequestIntoThreeStepWizardTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_304 Add Help Desk Ticket Summary On Dashboard Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_304_AddHelpDeskTicketSummaryOnDashboardTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_277 Report Job Have Re-Run Frequency And Email Functionality Test 
+		Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_277_ReportJobHaveReRun_FrequencyAndEmailFunctionalityTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_286 On Service Request Users Post Comment Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_286_OnServiceRequestUsersPostCommentTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_316_Edit Profile Screen Changes Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_316_EditProfileScreenChangesTest.xml">
+		</suite-file>
+	</suite-files>
+
+	<!-- AZ_251 My Tickets Field For Staff Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_251_MyTicketsFieldForStaffTest.xml">
+		</suite-file>
+	</suite-files>
+	
+	<!-- AZ_307 Contract Tab Highlight With Green If Asset Has Not Expied Contract Test Case Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_307_ContractTabHighlightWithGreenIfAssetHasNotExpiedContractTest.xml">
+		</suite-file>
+	</suite-files>
+	
+	<!-- AZ_176 Asset Elastic search Test Flow -->
+	<suite-files>
+		<suite-file
+			path=".//src/test/resources/AZ_176_AssetElasticsearchTest.xml">
+		</suite-file>
+	</suite-files>
+
+
+
+</suite> 
+	
+	
